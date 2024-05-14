@@ -5,9 +5,11 @@ Me chamo William, mas pode me chamar de Will! Sou formado em analise e desenvolv
 Hoje eu:
 
 - 🔭 Atuo com definição de escopo e desenvolvimento de projetos;
-- 🌱 Estou me especializando em Java e banco de dados Oracle. (Mas com foco em me tornar Full Stack);
+- 🌱 Estou me especializando em Java.
 - 💬 Você pode me procurar para apoiar com insights no seu projeto, atuação como freelancer ou para conversar sobre propostas na área de desenvolvimento de software;
 - 📫 Meus contatos estão logo abaixo!
+
+Veja também os meus projetos open-source. Na certa um deles pode ser útil pra você!
 
 ### Fun fact:
 - ⚡ Iniciei na Empresa Minsait (Indra) como assitente administrativo, e de lá pra cá já atuei como analista funcional, apoio a gestão e agora como desenvolvedor Java!
