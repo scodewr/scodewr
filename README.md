@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-Me chamo William, mas pode me chamar de Will! Sou formado em analise e desenvolvimento de sistemas, e hoje atuo como analista de sistemas Java na Minsait. Na Minsait, estou na operação de OSS, que é a parte de consultoria de sistemas legado do ramo de telecom. Meu trabalho não para na análise de sistemas, eu também apoio nos alinhamentos técnicos com a equipe, macro estimativas de novos projetos, planejamentos, desenvolvimento, análise de bugs, apoio a gestão e por aí vai 😄!
+Me chamo William, mas pode me chamar de Will! Sou formado em analise e desenvolvimento de sistemas, e hoje atuo como analista de sistemas Java na Minsait.
 
-Em resumo, hoje eu:
+Hoje eu:
 
 - 🔭 Atuo com definição de escopo e desenvolvimento de projetos;
-- 🌱 Estou me especializando em Java e banco de dados Oracle. (Mas com foco em me tornar Full Stack até o fim do ano!!);
+- 🌱 Estou me especializando em Java e banco de dados Oracle. (Mas com foco em me tornar Full Stack);
 - 💬 Você pode me procurar para apoiar com insights no seu projeto, atuação como freelancer ou para conversar sobre propostas na área de desenvolvimento de software;
 - 📫 Meus contatos estão logo abaixo!
 
@@ -13,15 +13,15 @@ Em resumo, hoje eu:
 - ⚡ Iniciei na Empresa Minsait (Indra) como assitente administrativo, e de lá pra cá já atuei como analista funcional, apoio a gestão e agora como desenvolvedor Java!
 
 
-## Trabalho com as tecnologias
+## Tecnologias
 <div style="align=center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="60" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original-wordmark.svg" width="40" height="40" />      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="50" height="50"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
           
-
- </div>         
-
-## Estou aprendendo
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> 
+</div>
 
 ## Contatos:
 
