@@ -1,6 +1,6 @@
 ### Olá, mundo! 👋
 
-Me chamo William, mas pode me chamar de Will! Sou Engenheiro de Software com mais de 5 anos de experiência em tecnologia, atualmente atuando com desenvolvimento back-end de Soluções na Minsait.
+Eu sou o Will! Sou Engenheiro de Software com mais de 5 anos de experiência em tecnologia, atualmente exercendo atividade em desenvolvimento back-end com Java de Soluções na Minsait.
 
 Minha especialidade está na construção de sistemas robustos, seguros e escaláveis, com forte domínio de Java (8+), Spring Boot, APIs REST, testes automatizados e arquitetura de microsserviços. Também participo ativamente das etapas de QA, homologação, GMUD e entregas com pipelines CI/CD.
 
@@ -21,35 +21,6 @@ Veja também meus projetos open-source — pode ser que algum deles te ajude!
 
 ---
 
-## 🚀 Tecnologias que utilizo
-
-<div style="align=center">
-
-<!-- Java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-<!-- Spring Boot -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-<!-- Docker -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
-<!-- Git -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-<!-- AWS -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
-<!-- Azure -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="50" height="50"/>
-<!-- Python -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-<!-- PostgreSQL -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-<!-- Oracle -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" height="50"/>
-<!-- JUnit (não disponível em Devicon, pode adicionar badge se desejar) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width="50" height="50"/>
-
-</div>
-
----
-
 ## 📜 Certificações
 
 <div style="align=center">
@@ -67,10 +38,4 @@ Veja também meus projetos open-source — pode ser que algum deles te ajude!
 
 ---
 
-## 📊 Estatísticas dos meus projetos pessoais
 
-<div>
-<a href="https://github.com/wsramos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsramos&layout=compact&langs_count=7&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wsramos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</div>
