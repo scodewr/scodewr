@@ -1,6 +1,6 @@
 ### Olá, mundo! 👋
 
-Eu sou o Will! Sou Engenheiro de Software com mais de 5 anos de experiência em tecnologia, atualmente exercendo atividade em desenvolvimento back-end com Java de Soluções na Minsait.
+Sou Engenheiro de Software com mais de 5 anos de experiência em tecnologia, atualmente exercendo atividade em desenvolvimento back-end com Java de Soluções.
 
 Minha especialidade está na construção de sistemas robustos, seguros e escaláveis, com forte domínio de Java (8+), Spring Boot, APIs REST, testes automatizados e arquitetura de microsserviços. Também participo ativamente das etapas de QA, homologação, GMUD e entregas com pipelines CI/CD.
 
