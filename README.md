@@ -1,21 +1,19 @@
-### Olá, mundo! 👋
+### Hi, explorer! 👋
 
-Sou Engenheiro de Software com mais de 5 anos de experiência em tecnologia, atualmente exercendo atividade em desenvolvimento back-end com Java de Soluções.
+> 🗺🔬 *And welcome to my lab!*  
+> Explore experiments, projects, and curiosities!
 
-Minha especialidade está na construção de sistemas robustos, seguros e escaláveis, com forte domínio de Java (8+), Spring Boot, APIs REST, testes automatizados e arquitetura de microsserviços. Também participo ativamente das etapas de QA, homologação, GMUD e entregas com pipelines CI/CD.
+---
 
-## ⚙️ Engenharia como forma de pensar
+| ⭐ | Status | Project | Description | Technology Tools |
+|---|--------|---------|------------|------------|
+| [⭐](https://github.com/scodewr/ms-inventory-device-management) | ![MCS-STABLE](https://img.shields.io/badge/MCS-STABLE-4CAF50?style=for-the-badge&labelColor=000000) | **ms-inventory-device-management** | Microservice for Inventory Device Management | ⚙️ Spring Boot<br>🗃️ Inventory API |
+| [⭐](https://github.com/scodewr/JavaMailSender) | ![MCS-REACTING](https://img.shields.io/badge/MCS-REACTING-FFD700?style=for-the-badge&labelColor=000000) | **JavaMailSender** | Microservice for sending emails | ☕ Java 22<br>✉️ Email support |
+| [⭐](https://github.com/scodewr/ReflectionUtilRepository) | ![LIB-REACTING](https://img.shields.io/badge/LIB-REACTING-FFD700?style=for-the-badge&labelColor=4B0082) | **ReflectionUtilRepository** | Java utility library that simplifies accessing nested properties in complex object hierarchies using reflection | ☕ Java 17+<br>🪞 Reflection tools |
 
-Para mim, engenharia de software é mais do que uma função — é uma forma de pensar e resolver problemas com clareza, objetividade e responsabilidade técnica. Gosto de projetar soluções eficientes, sustentáveis e que façam sentido tanto para o negócio quanto para quem desenvolve. Valorizo a arquitetura bem feita, a automação inteligente e a evolução contínua como parte natural do processo.
+---
 
-## 🔧 Tech Highlights
-
-- Desenvolvimento de aplicações back-end com **Java (8+)**, **Spring Boot** e **APIs RESTful**  
-- Definição técnica e arquitetura de **microsserviços** com foco em escalabilidade e manutenção  
-- Implantação de pipelines de **CI/CD**, versionamento com **Git/Azure Repos** e uso de **Docker**  
-- Atuação em ambientes **multinuvem** (AWS, Azure), com práticas DevSecOps  
-- Participação em todo o ciclo de entrega: análise de requisitos, QA, testes automatizados (**JUnit**), homologação e **GMUD**  
-- Expansão de conhecimento em **Python** com foco em **FastAPI/Flask** e aplicações em **Machine Learning**  
-
-Veja também meus projetos open-source — pode ser que algum deles te ajude!
-
+> ✨ This lab runs on coffee ☕, curiosity 🔍, and a little bit of chaos ⚡.  
+> 💡 Contributions are always welcome!  
+> ⭐ Enjoying a project? Give it a star!  
+> 📝 Have ideas or suggestions? Open an issue or submit a pull request!
